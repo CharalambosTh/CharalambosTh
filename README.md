@@ -62,23 +62,5 @@ I’m a curious computer science student who enjoys building things that bridge 
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CharalambosTh&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=CharalambosTh&theme=dark&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosTh&theme=dark&hide_border=false&layout=compact"/>
-</p>
-
----
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CharalambosTh&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
-
----
-
 
 
